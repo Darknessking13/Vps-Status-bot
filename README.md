@@ -41,6 +41,7 @@ And here's the `config.json` file template:
 ```
 
 ScreenShots
+
 ![image](https://github.com/Darknessking13/Vps-Status-bot/assets/133841052/e1696b17-7969-48d0-8e80-9ae1ad01c625)
 
-
+hope you have great day ._.
