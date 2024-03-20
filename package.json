@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "discord.js": "^13.17.1",
+    "os": "^0.1.2"
+  }
+}
