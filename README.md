@@ -10,15 +10,15 @@ bash
 
 ```git clone https://github.com/Darknessking13/Vps-Status-bot.git```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 cd Vps-Status-bot
 Edit the config.json file with your bot token, Discord channel ID, and server ID. You can use a text editor like Nano:
 
-Install the required dependencies using npm:
+3. Install the required dependencies using npm:
 
 ```npm install discord.js@13 child_process os```
 
-Start the bot by running the main script:
+4. Start the bot by running the main script:
 
 ```node main.js```
 
