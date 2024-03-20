@@ -13,13 +13,6 @@ bash
 Navigate to the project directory:
 cd Vps-Status-bot
 Edit the config.json file with your bot token, Discord channel ID, and server ID. You can use a text editor like Nano:
-nano config.json
-Example config.json:
-`{
-  "token": "your_bot_token",
-  "channelId": "your_discord_channel_id",
-  "serverId": "your_discord_server_id"
-}`
 
 Install the required dependencies using npm:
 
