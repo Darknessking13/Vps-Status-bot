@@ -36,6 +36,13 @@ And here's the `config.json` file template:
 }
 ```
 
+#Make it 24/7
+1. Install pm2
+```npm install pm2 -g```
+
+2. Start bot
+```pm2 start main.js```
+
 ScreenShots
 
 ![image](https://github.com/Darknessking13/Vps-Status-bot/assets/133841052/e1696b17-7969-48d0-8e80-9ae1ad01c625)
