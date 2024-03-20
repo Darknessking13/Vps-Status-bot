@@ -2,7 +2,14 @@
 
 VPS Status Bot is a simple Discord bot that provides real-time updates on your VPS (Virtual Private Server) status within your Discord server. It fetches and displays information such as CPU usage, RAM usage, disk usage, and uptime.
 
-## Installation
+## installation using bash command
+1. just type 
+```bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/main/install.sh)```
+
+2.configure config.json with ur infos
+3. then it ready just type 
+```node main.js```
+## Installation method 2
 
 1. Clone the repository:
 
