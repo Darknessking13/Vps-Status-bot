@@ -6,14 +6,14 @@ VPS Status Bot is a simple Discord bot that provides real-time updates on your V
 1. OS type must be Linux.
 2. Node.js 16 or greater is required.
 
-## Installation Method 1
+## Installation
 
-Run the following bash command:
+1.Run the following bash command:
 ```bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/main/install.sh)```
 
 2.Configure config.json with your information.
 
-Once configured, start the bot by running:
+3.Once configured, start the bot by running:
 ```node main.js```
 
 # Config Template:
