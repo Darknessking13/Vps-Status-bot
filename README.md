@@ -33,4 +33,13 @@ Here's the config.json file template:
 
 # Example
 ![image](https://github.com/Darknessking13/Vps-Status-bot/assets/133841052/e1696b17-7969-48d0-8e80-9ae1ad01c625)
+
+
+## Contributors
+- [Contributor 1](https://github.com/Darknessking13)
+
+
 Hope you have a great day! 😊
+
+
+
