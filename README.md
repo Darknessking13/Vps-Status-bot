@@ -36,7 +36,7 @@ Here's the config.json file template:
 
 
 ## Contributors
-- [Contributor 1](https://github.com/Darknessking13)
+- [Darknessking13](https://github.com/Darknessking13)
 
 
 Hope you have a great day! 😊
