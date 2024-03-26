@@ -7,7 +7,7 @@
   "name": "vps-status",
   "description": "VPS Status Bot is a simple Discord bot that provides real-time updates on your VPS (Virtual Private Server) status within your Discord server. It fetches and displays information such as CPU usage, RAM usage, disk usage, and uptime.",
   "version": "0.0.2",
-  "main": "bot.js",
+  "main": "main.js",
   "devDependencies": {},
   "scripts": {
     "test": "node ."
