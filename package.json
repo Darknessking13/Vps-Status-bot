@@ -3,5 +3,28 @@
     "child_process": "^1.0.2",
     "discord.js": "^13.17.1",
     "os": "^0.1.2"
-  }
+  },
+  "name": "vps-status",
+  "description": "VPS Status Bot is a simple Discord bot that provides real-time updates on your VPS (Virtual Private Server) status within your Discord server. It fetches and displays information such as CPU usage, RAM usage, disk usage, and uptime.",
+  "version": "0.0.2",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darknessking13/Vps-Status-bot.git"
+  },
+  "keywords": [
+    "vps-status",
+    "discord",
+    "node-stats"
+  ],
+  "author": "i._.become_a_devil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darknessking13/Vps-Status-bot/issues"
+  },
+  "homepage": "https://github.com/Darknessking13/Vps-Status-bot#readme"
 }
