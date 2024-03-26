@@ -6,7 +6,7 @@ VPS Status Bot is a simple Discord bot that provides real-time updates on your V
 1. os type is lunix
 2. node 16 or greater
 
-#installation using bash command
+## installation using bash command
 1. just type 
 ```bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/main/install.sh)```
 
@@ -15,7 +15,7 @@ VPS Status Bot is a simple Discord bot that provides real-time updates on your V
 3. then it ready just type 
 ```node main.js```
 
-#Installation method 2
+## Installation method 2
 
 1. Clone the repository:
 
