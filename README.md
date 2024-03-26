@@ -9,7 +9,9 @@ VPS Status Bot is a simple Discord bot that provides real-time updates on your V
 ## Installation
 
 1.Run the following bash command:
-```bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/main/install.sh)```
+```
+bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/main/install.sh)
+```
 
 2.Configure config.json with your information.
 
