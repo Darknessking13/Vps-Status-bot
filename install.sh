@@ -35,5 +35,24 @@ cd Vps-Status-bot || exit
 echo "Installing required Node.js packages..."
 npm install discord.js@13 child_process os
 
-# Reminder to configure config.json
-echo "Please configure your config.json file and then run 'node main.js' to start the bot."
+# Prompt for bot token
+read -p "Enter your bot token: " token
+
+# Prompt for channel ID
+read -p "Enter your Discord channel ID: " channelId
+
+# Prompt for server ID
+read -p "Enter your Discord server ID: " serverId
+
+# Create config.json
+cat << EOF > config.json
+{
+  "token": "$token",
+  "channelId": "$channelId",
+  "serverId": "$serverId"
+}
+EOF
+
+# Start the bot
+echo "Starting the bot..."
+node main.js
