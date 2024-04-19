@@ -18,14 +18,8 @@ bash <(curl -s https://raw.githubusercontent.com/Darknessking13/Vps-Status-bot/m
 3.Once configured, start the bot by running:
 ```node main.js```
 
-# Config Template:
-Here's the config.json file template:
-```{
-  "token": "your_bot_token",
-  "channelId": "your_discord_channel_id",
-  "serverId": "your_discord_server_id"
-}
-```
+# Change Log:
+how don't need config the config.json and just enter token, channel id, serverid accoding to the script
 
 # Make it 24/7
 1. install pm2
