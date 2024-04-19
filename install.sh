@@ -10,21 +10,10 @@ confirm() {
     return 1 # Return false for no
 }
 
-# Function to install Node.js and npm
-install_node_npm() {
-    # Install Node.js and npm
-    echo "Installing Node.js and npm..."
-    sudo apt install nodejs npm -y
-}
-
 # Check if Node.js and npm are installed
 if ! command -v node &>/dev/null || ! command -v npm &>/dev/null; then
-    if confirm "Node.js and/or npm are not installed. Do you want to install them?"; then
-        install_node_npm
-    else
-        echo "Aborted."
-        exit 1
-    fi
+    echo "Node.js and/or npm are not installed. Please install them and try again."
+    exit 1
 fi
 
 # Ask for confirmation
